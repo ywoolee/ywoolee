@@ -8,8 +8,8 @@
 
 OSS PRACTICE
 - [x] 1st oss practice finish
-- [ ] 2nd oss practice finish
-- [ ] 3rd oss practice finish
+- [x] 2nd oss practice finish
+- [x] 3rd oss practice finish
 - [ ] 4th oss practice finish
 - [ ] 5th oss practice finish
 - [ ] 6th oss practice finish
